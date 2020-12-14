@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NapoleonTestApp</string>
+    <string name="btn_view_posts">Ver publicaciones</string>
+    <string name="btn_view_comments">Ver comentarios</string>
+    <string name="generic_message_progress">Por favor espere…</string>
+    <string name="generic_error">Ha ocurrido un error inesperado</string>
+    <string name="accept">Aceptar</string>
+    <string name="list_is_empty">List is empty</string>
+    <string name="downloading_information">Descargando información</string>
+    <string name="post_list">Lista de publicaciones</string>
+    <string name="example_email">jhondoe@email.com</string>
+    <string name="example_phone_number">1-770-736-8031 x56442</string>
+    <string name="example_name">Jhon doe</string>
+    <string name="favorite">Favoritos</string>
+    <string name="all">Todos</string>
+    <string name="deleteAll">Borrar todo</string>
+    <string name="refresh">refresh</string>
+</resources>
